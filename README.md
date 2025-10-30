@@ -1,5 +1,5 @@
 # AI-Map
-[![AI-Map header](link-to-your-image.png)](link-with-tracking.org)
+[![AI-Map header](https://raw.githubusercontent.com/oxylabs/ai-map-py/refs/heads/main/Github-AI-Studio-1200x628px-Map.png?token=GHSAT0AAAAAADGKHWR7EYQL4R6BYNVSUIEO2IDHHYA)](link-with-tracking.org)
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
