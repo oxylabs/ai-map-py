@@ -1,5 +1,5 @@
 # AI-Map
-[![AI-Map header](https://github.com/oxylabs/ai-map-py/blob/main/Github-AI-Studio-1200x628px-Map.png)]([link-with-tracking.org](https://aistudio.oxylabs.io/apps/map?utm_source=877&utm_medium=affiliate&utm_campaign=ai_studio&utm_content=ai-map-py&groupid=877&transaction_id=102f49063ab94276ae8f116d224b67))
+[![AI-Map header](https://github.com/oxylabs/ai-map-py/blob/main/Github-AI-Studio-1200x628px-Map.png)](https://aistudio.oxylabs.io/apps/map?utm_source=877&utm_medium=affiliate&utm_campaign=ai_studio&utm_content=ai-map-py&groupid=877&transaction_id=102f49063ab94276ae8f116d224b67)
 
 [![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
